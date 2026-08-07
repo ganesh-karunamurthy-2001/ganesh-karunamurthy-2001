@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @LS1SHOGUN
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# ,html ,css and javascript
-- 💞️ I’m looking to collaborate on any game company
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently working on foundation SQL and Python
 - 📫 How to reach me : Later
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Lazy people works fast and introverts awakens all by himself. I'm both.
 
 <!---
 LS1SHOGUN/LS1SHOGUN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
