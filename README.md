@@ -13,6 +13,7 @@ engineering with Python, PySpark, and Microsoft Fabric.
   pipeline logic from raw package XML — no source control existed at the time,
   which is part of why I now build everything with Git from day one
 - Currently preparing for the DP-700 (Fabric Data Engineer) certification
+- Below are the featured projects developed by me with Claude AI
 
 ## Featured projects
 
@@ -20,7 +21,18 @@ engineering with Python, PySpark, and Microsoft Fabric.
 ASP.NET Core MVC app for managing a trading-card-game collection — full CRUD,
 admin auth, and business-rule-driven validation (EF Core, SQL Server).
 
+Note: Entire codebase is built by AI with some tweaks by me, and also business
+rules verification and web tests are done by me. This project is still not
+completed as cards need to insert manually.
+
+Please check the deployed version below — details are on the homepage:
+🔗 [kardscollection.azurewebsites.net](https://kardscollection-hmhnekb9gmbqhef3.centralindia-01.azurewebsites.net)
+
 **[KARDS-Data-Engineering-Code-Heavy-1](https://github.com/LS1SHOGUN/KARDS-Data-Engineering-Code-Heavy-1)**
+
+Note: This project is entirely built by me, with help of AI for conceptual
+understanding.
+
 End-to-end medallion architecture (Bronze/Silver/Gold) pipeline on Microsoft Fabric,
 built on real data pulled from the project above. Python/pandas ingestion with
 retry logic, PySpark transformations, a parallel T-SQL Warehouse implementation of
