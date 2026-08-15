@@ -1,19 +1,24 @@
 # Hi, I'm SHOGUN 👋
 
-Database & ETL Developer with 3+ years of experience in SQL Server, SSIS, T-SQL,
-Oracle, and enterprise data warehousing — currently expanding into cloud data
-engineering with Python, PySpark, and Microsoft Fabric.
+T-SQL and SSIS Developer | SQL Server, Visual Studio, Toad, Excel
+ETL Developer | 3 Years of Experience | Immediate Joiner
 
 ## What I do
 
-- Build and maintain SQL Server-based data warehouses and ETL pipelines
-- Support regulatory reporting (RBI audit reporting) with a strong focus on data
-  accuracy and validation
-- Recovered 60+ SSIS packages after a production server failure by reconstructing
-  pipeline logic from raw package XML — no source control existed at the time,
-  which is part of why I now build everything with Git from day one
+- Maintain SQL Server-based data warehouses and develop/maintain ETL data flows
+  from source systems into the warehouse, using SQL Server, T-SQL, and SSIS
+- Support reporting requirements using SQL queries and Excel, and handle ad hoc
+  data/reporting requests
+- Worked on 70+ SSIS packages; helped automate 50+ jobs under senior guidance
+- Provide night support for critical job failures to ensure continuity of data
+  operations
+- Recovered 60+ SSIS packages after ISPAC files were corrupted on the production
+  server, reconstructing pipeline logic from package XML and rebuilding them on a
+  new integration server.
+- Worked on a fusion-layer project integrating existing Autofin data with new
+  Finnone (LMS) data from separate source databases into a destination database,
+  enabling the reporting team to move off the legacy Autofin-only dataset
 - Currently preparing for the DP-700 (Fabric Data Engineer) certification
-- Below are the featured projects developed by me with Claude AI
 
 ## Featured projects
 
@@ -36,15 +41,16 @@ understanding.
 End-to-end medallion architecture (Bronze/Silver/Gold) pipeline on Microsoft Fabric,
 built on real data pulled from the project above. Python/pandas ingestion with
 retry logic, PySpark transformations, a parallel T-SQL Warehouse implementation of
-Gold, and Power BI reporting.
+Gold, and Power BI reporting — built to bridge my existing SQL Server/ETL background
+into cloud data engineering.
 
 ## Tech I work with
 
-`SQL Server` `T-SQL` `SSIS` `Oracle` `Python` `pandas` `PySpark` `Microsoft Fabric`
-`Power BI` `Azure` `Git`
+`SQL Server` `T-SQL` `SSIS` `Oracle` `Excel` `Visual Studio` `Toad`
 
 ## Currently learning
 
-Deepening PySpark, cloud data engineering patterns (medallion architecture,
-ETL vs. ELT), and Fabric's Warehouse/Lakehouse ecosystem — moving from traditional
-ETL development toward modern cloud data engineering.
+Python, pandas, PySpark, Microsoft Fabric (Lakehouse, Warehouse, Data Pipelines,
+On-premises Gateway), medallion architecture and ETL vs. ELT patterns, and Power BI
+— extending my SQL Server/SSIS foundation toward cloud data engineering, ahead of
+the DP-700 certification.
