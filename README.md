@@ -1,4 +1,4 @@
-# Hi, I'm SHOGUN 👋
+# Hi, I'm Ganesh 👋
 
 T-SQL and SSIS Developer | SQL Server, Visual Studio, Toad, Excel
 ETL Developer | 3 Years of Experience | Immediate Joiner
@@ -18,11 +18,10 @@ ETL Developer | 3 Years of Experience | Immediate Joiner
 - Worked on a fusion-layer project integrating existing Autofin data with new
   Finnone (LMS) data from separate source databases into a destination database,
   enabling the reporting team to move off the legacy Autofin-only dataset
-- Currently preparing for the DP-700 (Fabric Data Engineer) certification
 
 ## Featured projects
 
-**[KARDS-WEB-PROJECT](https://github.com/LS1SHOGUN/KARDS-WEB-PROJECT)**
+**[KARDS-WEB-PROJECT](https://github.com/ganesh-karunamurthy-2001/KARDS-WEB-PROJECT)**
 ASP.NET Core MVC app for managing a trading-card-game collection — full CRUD,
 admin auth, and business-rule-driven validation (EF Core, SQL Server).
 
@@ -33,7 +32,7 @@ completed as cards need to insert manually.
 Please check the deployed version below — details are on the homepage:
 🔗 [kardscollection.azurewebsites.net](https://kardscollection-hmhnekb9gmbqhef3.centralindia-01.azurewebsites.net)
 
-**[KARDS-Data-Engineering-Code-Heavy-1](https://github.com/LS1SHOGUN/KARDS-Data-Engineering-Code-Heavy-1)**
+**[KARDS-Data-Engineering-Code-Heavy-1](https://github.com/ganesh-karunamurthy-2001/KARDS-Data-Engineering-Code-Heavy-1)**
 
 Note: This project is entirely built by me, with help of AI for conceptual
 understanding.
@@ -52,5 +51,4 @@ into cloud data engineering.
 
 Python, pandas, PySpark, Microsoft Fabric (Lakehouse, Warehouse, Data Pipelines,
 On-premises Gateway), medallion architecture and ETL vs. ELT patterns, and Power BI
-— extending my SQL Server/SSIS foundation toward cloud data engineering, ahead of
-the DP-700 certification.
+— extending my SQL Server/SSIS foundation toward cloud data engineering.
