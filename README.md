@@ -44,4 +44,18 @@ End-to-end medallion architecture (Bronze/Silver/Gold) pipeline on Microsoft Fab
 built on real data pulled from the project above. Python/pandas ingestion with
 retry logic, PySpark transformations, a parallel T-SQL Warehouse implementation of
 Gold, and Power BI reporting — built to bridge my existing SQL Server/ETL background
-into cloud
+into cloud data engineering.
+
+## Tech I work with
+
+`SQL Server` `T-SQL` `SSIS` `Oracle` `Excel` `Visual Studio` `Toad`
+
+## Currently learning
+
+Python, pandas, PySpark, Microsoft Fabric (Lakehouse, Warehouse, Data Pipelines,
+On-premises Gateway), medallion architecture and ETL vs. ELT patterns, and Power BI
+— extending my SQL Server/SSIS foundation toward cloud data engineering.
+
+## Connect with me
+
+[LinkedIn](YOUR-LINKEDIN-URL) · ganesh.karunamurthy.2001@gmail.com
